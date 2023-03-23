@@ -1,0 +1,19 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.btnflex{
+    display: flex;
+    margin: 1rem;
+}
+.btnflex button{
+    margin: 0.3rem;
+}
+.btnflex button:nth-child(1){
+    background-color: blue;
+    color: white;
+}
