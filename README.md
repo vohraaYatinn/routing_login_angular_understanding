@@ -1,27 +1,27 @@
-# RoutingApp
+This project have a basic code of how angular routing works , services, api's, hard coded login system and tokens 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+email: admin@gmail.com
+pass: admin
 
-## Development server
+you can try and test
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+#NPM
 
-## Code scaffolding
+npm i
+npm start
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#SCREENSHOTS
 
-## Build
+![image](https://user-images.githubusercontent.com/96340665/227110313-2d1c2924-7d3d-44a5-9f91-207e1d2f0f8e.png)
+![image](https://user-images.githubusercontent.com/96340665/227110326-abfc2a73-0fec-4a1a-a51d-f8a755eb44ac.png)
+![image](https://user-images.githubusercontent.com/96340665/227110341-f32bfdf7-e489-44ec-8a05-d4667423d819.png)
+![image](https://user-images.githubusercontent.com/96340665/227110362-e6c1d153-3742-4884-9ce9-a04a441e83fe.png)
+<img width="1440" alt="Screenshot 2023-03-23 at 10 40 13 AM" src="https://user-images.githubusercontent.com/96340665/227110414-df85471d-f1db-43a3-b593-52644f82f855.png">
+<img width="1440" alt="Screenshot 2023-03-23 at 10 40 20 AM" src="https://user-images.githubusercontent.com/96340665/227110440-6f6e5b73-c86f-429d-bf55-79c7b39d3dff.png">
+<img width="1440" alt="Screenshot 2023-03-23 at 10 40 26 AM" src="https://user-images.githubusercontent.com/96340665/227110472-7784674a-388a-41d8-8b4a-3493e2b1400e.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+IF you want to hire me, or face any problems
+just message me
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+www.instagram.com/vohra_yatin
