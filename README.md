@@ -25,3 +25,4 @@ IF you want to hire me, or face any problems
 just message me
 
 www.instagram.com/vohra_yatin
+email: vohrayatin9@gmail.com
